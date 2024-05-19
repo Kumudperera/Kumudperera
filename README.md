@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1785/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 
 - 📫 How to reach me **nethmalperera54@gmail.com**
-- 📫 **<a href="https://kumudperera.github.io/KumudPereraPortfolio">My protfolio</a>**
+- 📫 **<a href="https://kumudperera.github.io/KumudPereraPortfolio">My portfolio</a>**
 
 <h3 align="left">Languages and Tools:</h3>
 
